@@ -1,1 +1,1 @@
-This repsitory contains my c++ programming practice codes 
+This repository contains my C++ programming practice codes.
