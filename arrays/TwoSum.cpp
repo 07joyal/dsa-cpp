@@ -1,6 +1,6 @@
-//program to returnindex of two numbers that add upto the target
-#include<bits/stdc++.h>
-using namespace std;
+//Leetcode-twosum problem
+//program to return index of two numbers that add upto the target
+
 class Solution {
 public:
     vector<int>twoSum(vector<int> nums, int target) //function to find values 
